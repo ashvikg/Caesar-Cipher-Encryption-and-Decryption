@@ -184,9 +184,4 @@ MIT License
 
 ---
 
-If you want, I can also create:
-✅ **A project thumbnail**
-✅ **A GitHub description**
-✅ **A ZIP file containing full project**
 
-Just tell me!
